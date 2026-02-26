@@ -1,28 +1,29 @@
 
 # **Advanced Spatial Ecology and Species Distribution Modeling Workshop**
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/R-4.2%252B-blue
-https://img.shields.io/badge/Maintained%253F-yes-green.svg
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![R Version](https://img.shields.io/badge/R-4.2%2B-blue)](https://www.r-project.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/tahirali-biomics/spatial-ecology-workshop/graphs/commit-activity)
 
 ------------------------------------------------------------------------
 
 ## **Overview**
+
 This repository contains comprehensive materials for a five-session advanced training workshop integrating spatial sampling theory, biostatistical diagnostics, climate (BioClim) analysis, multivariate statistics, and machine learning approaches for Species Distribution Modeling (SDMs).
 
 The workshop is designed for researchers in ecology, environmental science, conservation biology, and climate modeling who seek rigorous statistical and ecological reasoning combined with reproducible computational workflows in R.
 
 ## **Target Audience**
+
 - Bachelor's students
-
 - Master's students
-
 - Early-career scientists
-
 - Conservation practitioners
 
 ------------------------------------------------------------------------
 
 ## **Format**
+
 - Five sessions (60 minutes each)
 
 - Integrated theory and hands-on R practice
@@ -36,6 +37,7 @@ The workshop is designed for researchers in ecology, environmental science, cons
 ------------------------------------------------------------------------
 
 ## **Prerequisites**
+
 - Introductory statistics
 
 - Basic familiarity with R (helpful but not required)
@@ -46,6 +48,7 @@ The workshop is designed for researchers in ecology, environmental science, cons
 
 ## **Repository Structure**
 
+```
 spatial-ecology-workshop/
 │
 ├── README.md                         # Workshop overview and instructions
@@ -122,6 +125,7 @@ spatial-ecology-workshop/
 └── tests/                               # Validation scripts
     ├── test_data_integrity.R
     └── test_package_installation.R
+```
         
 ------------------------------------------------------------------------
 
@@ -153,6 +157,7 @@ Detailed variable descriptions and data processing steps are available in:
 ## **Workshop Sessions**
 
 ### **Session 1 – Spatial Sampling and Ecological Inference**
+
 - Random, systematic, stratified, and transect sampling designs
 
 - Road- and river-associated sampling bias detection
@@ -166,6 +171,7 @@ Detailed variable descriptions and data processing steps are available in:
 - Script: scripts/01_spatial_sampling_complete.R
 
 ### **Session 2 – Data Exploration and Normalization**
+
 - Distribution diagnostics (histograms, Q–Q plots, density plots)
 
 - Transformations (log, Box–Cox, scaling)
@@ -177,6 +183,7 @@ Detailed variable descriptions and data processing steps are available in:
 - Script: scripts/02_data_exploration_template.R
 
 ### **Session 3 – Collinearity and Regularization**
+
 - Correlation matrices and visualization
 
 - Variance Inflation Factor (VIF) analysis
@@ -188,6 +195,7 @@ Detailed variable descriptions and data processing steps are available in:
 - Script: scripts/03_collinearity_template.R
 
 ### **Session 4 – Multivariate Analysis and Dimensionality Reduction**
+
 - Principal Component Analysis (PCA)
 
 - Interpretation of loadings in environmental space
@@ -199,6 +207,7 @@ Detailed variable descriptions and data processing steps are available in:
 - Script: scripts/04_multivariate_template.R
 
 ### **Session 5 – Species Distribution Modeling**
+
 - Generalized Linear Models (GLM)
 
 - Generalized Additive Models (GAM)
@@ -214,6 +223,7 @@ Detailed variable descriptions and data processing steps are available in:
 ------------------------------------------------------------------------
 
 ## **Quick Start
+
 **Option A: Local RStudio (Windows/Mac/Linux)**
 
 
@@ -232,6 +242,7 @@ Rscript scripts/01_spatial_sampling_complete.R
 ```
 
 **Option B: Google Colab (No installation required)**
+
 1. Open Google Colab
 
 2. Click File → Upload notebook
@@ -245,6 +256,7 @@ Rscript scripts/01_spatial_sampling_complete.R
 ------------------------------------------------------------------------
 
 ## **Requirements**
+
 **R Packages**
 All required packages will be installed automatically by the setup script:
 
@@ -256,6 +268,7 @@ viz <- c("patchwork", "tmap", "corrplot", "pROC")
 ```
 
 ## **System Dependencies**
+
 **For Ubuntu/Debian Linux:**
 
 ```
@@ -284,7 +297,7 @@ brew install gdal geos proj udunits
 
 ------------------------------------------------------------------------
 
-## Student Preparation (Before Session 1)
+## **Student Preparation (Before Session 1)**
 
 1.  **Install R** (version ≥ 4.2) from [CRAN](https://cran.r-project.org/) (not needed for Colab users)
 
@@ -312,22 +325,22 @@ brew install gdal geos proj udunits
 
 ------------------------------------------------------------------------
 
-## License
+## **License**
 
-This project is licensed under the MIT License - see the [LICENSE](https://license/) file for details.
-
-------------------------------------------------------------------------
-
-## Contact
-
-**Instructor:** Dr. Tahir Ali | \
-**Institution:** Molecular Plant Ecology, Institute of Plant Sciences, University of Cologne\
-**Email:** tali\@uni-koeln.de\
-**Repository:** <https://github.com/tahirali-biomics/spatial-ecology-workshop>
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ------------------------------------------------------------------------
 
-## Citation
+## **Contact**
+
+**Instructor:** Dr. Tahir Ali | https://tahirali-biomics.github.io  
+**Institution:** Molecular Plant Ecology, Institute of Plant Sciences, University of Cologne  
+**Email:** tali@uni-koeln.de  
+**Repository:** https://github.com/tahirali-biomics/spatial-ecology-workshop
+
+------------------------------------------------------------------------
+
+## **Citation**
 
 If you use these materials in your work or teaching, please cite:
 
@@ -335,7 +348,7 @@ If you use these materials in your work or teaching, please cite:
 
 ------------------------------------------------------------------------
 
-## Acknowledgments
+## **Acknowledgments**
 
 -   **WorldClim** for providing high-resolution climate data
 
