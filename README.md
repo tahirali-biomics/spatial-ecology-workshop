@@ -320,7 +320,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://licen
 
 ## Contact
 
-**Instructor:** Dr. Tahir Ali | https://tahirali-biomics.github.io \
+**Instructor:** Dr. Tahir Ali | \
 **Institution:** Molecular Plant Ecology, Institute of Plant Sciences, University of Cologne\
 **Email:** tali\@uni-koeln.de\
 **Repository:** <https://github.com/tahirali-biomics/spatial-ecology-workshop>
