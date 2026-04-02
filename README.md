@@ -228,11 +228,22 @@ Detailed variable descriptions and data processing steps are available in:
 
 
 ```
-# Clone the repository
-git clone https://github.com/tahirali-biomics/spatial-ecology-workshop.git
+Quick Start: Cloning a Git LFS Repository
+1. Install Git LFS
+• macOS: brew install git-lfs
+• Ubuntu/Debian: `sudo apt-get install git-lfs
+• CentOS/RHEL: sudo yum install git-lfs
+• Windows: Download from https://git-lfs.github.com and run the installer.
+our PATH).
+	◦ Restart any open Command Prompt or Git Bash windows.
+2. Initialize Git LFS
+After installation, run the following command once (Terminal on macOS/Linux, Command Prompt on Windows):
 
-# Navigate into the directory
-cd spatial-ecology-workshop
+3. Clone the repository
+`git lfs clone https://github.com/tahirali-biomics/spatial-ecology-workshop.git`
+
+4. Navigate into the directory
+`cd spatial-ecology-workshop`
 
 # Install required packages
 Rscript scripts/00_install_packages.R
