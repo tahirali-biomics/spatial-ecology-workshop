@@ -5,6 +5,13 @@
 [![R Version](https://img.shields.io/badge/R-4.2%2B-blue)](https://www.r-project.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/tahirali-biomics/spatial-ecology-workshop/graphs/commit-activity)
 
+------------------------------------------------------------------------
+
+**All scripts for the five workshop sessions are available here**: 
+<a href="https://tahirali-biomics.github.io/workshops/advanced_spatial_ecology_sdm.html/" target="_blank">
+  View workshop scripts
+</a>
+
 **All scripts for the five workshop sessions are available here**: https://tahirali-biomics.github.io/workshops/advanced_spatial_ecology_sdm.html
 ------------------------------------------------------------------------
 
