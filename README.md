@@ -1,17 +1,18 @@
 
-# **Advanced Spatial Ecology and Species Distribution Modeling Workshop**
+# **Advanced Spatial Ecology and Species Distribution Modelling Workshop**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![R Version](https://img.shields.io/badge/R-4.2%2B-blue)](https://www.r-project.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/tahirali-biomics/spatial-ecology-workshop/graphs/commit-activity)
 
+**All scripts for the five workshop sessions are available here**: https://tahirali-biomics.github.io/workshops/advanced_spatial_ecology_sdm.html
 ------------------------------------------------------------------------
 
 ## **Overview**
 
-This repository contains comprehensive materials for a five-session advanced training workshop integrating spatial sampling theory, biostatistical diagnostics, climate (BioClim) analysis, multivariate statistics, and machine learning approaches for Species Distribution Modeling (SDMs).
+This repository contains comprehensive materials for a five-session advanced training workshop that integrates spatial sampling theory, biostatistical diagnostics, climate (BioClim) analysis, multivariate statistics, and machine learning approaches for Species Distribution Modelling (SDMs).
 
-The workshop is designed for researchers in ecology, environmental science, conservation biology, and climate modeling who seek rigorous statistical and ecological reasoning combined with reproducible computational workflows in R.
+The workshop is designed for researchers in ecology, environmental science, conservation biology, and climate modelling who seek rigorous statistical and ecological reasoning combined with reproducible computational workflows in R.
 
 ## **Target Audience**
 
