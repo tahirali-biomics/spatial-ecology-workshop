@@ -8,7 +8,7 @@
 ------------------------------------------------------------------------
 
 ## **All scripts for the five workshop sessions are available here**: 
-<a href="https://tahirali-biomics.github.io/workshops/advanced_spatial_ecology_sdm.html/" target="_blank">
+<a href="[https://tahirali-biomics.github.io/workshops/advanced_spatial_ecology_sdm.html/]" target="_blank">
   View workshop scripts
 </a>
 
